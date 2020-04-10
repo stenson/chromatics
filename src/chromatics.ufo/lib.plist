@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
@@ -32,14 +32,11 @@
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>
-      <string>A</string>
-      <string>C</string>
-      <string>I</string>
-      <string>N</string>
-      <string>O</string>
-      <string>R</string>
-      <string>S</string>
-      <string>T</string>
+      <string>A.legs</string>
+      <string>S.curve</string>
+      <string>R.leg</string>
+      <string>T.top</string>
+      <string>R.lobe</string>
     </array>
   </dict>
 </plist>
