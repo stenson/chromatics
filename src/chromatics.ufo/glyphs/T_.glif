@@ -1,7 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="500"/>
+  <advance width="227"/>
   <unicode hex="0054"/>
   <outline>
+    <contour>
+      <point x="41" y="193" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="193" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="750" type="line"/>
+      <point x="0" y="390" type="line"/>
+      <point x="33" y="390" type="line"/>
+      <point x="33" y="505" type="line"/>
+      <point x="33" y="543"/>
+      <point x="45" y="555"/>
+      <point x="70" y="555" type="curve"/>
+      <point x="126" y="555" type="line"/>
+      <point x="126" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="615" type="line"/>
+      <point x="84" y="125" type="line"/>
+      <point x="146" y="125" type="line"/>
+      <point x="146" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="750" type="line"/>
+      <point x="101" y="750" type="line"/>
+      <point x="101" y="555" type="line"/>
+      <point x="157" y="555" type="line"/>
+      <point x="182" y="555"/>
+      <point x="194" y="543"/>
+      <point x="194" y="505" type="curve"/>
+      <point x="194" y="390" type="line"/>
+      <point x="227" y="390" type="line"/>
+    </contour>
   </outline>
 </glyph>

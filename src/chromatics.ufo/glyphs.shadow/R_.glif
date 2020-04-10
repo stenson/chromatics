@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="500"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="-30" y="0" type="move"/>
+      <point x="146" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="27" type="line"/>
+      <point x="284" y="17" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="56" type="move"/>
+    </contour>
+    <contour>
+      <point x="277" y="74" type="move"/>
+    </contour>
+    <contour>
+      <point x="277" y="96" type="move"/>
+    </contour>
+  </outline>
+</glyph>
